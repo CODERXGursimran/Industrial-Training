@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "jsdom": "^21.0.0",
+    "request": "^2.88.2",
+    "slsx": "^0.0.3",
+    "xlsx": "^0.18.5"
+  }
+}
